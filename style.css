@@ -1,0 +1,23 @@
+/* Style for the body and the background color */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Style for the header */
+h1 {
+  font-size: 36px;
+  text-align: center;
+  color: #333;
+  margin-top: 50px;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+/* Style for the text */
+p {
+  font-size: 18px;
+  line-height: 1.5;
+  color: #666;
+  margin-top: 20px;
+}
+
